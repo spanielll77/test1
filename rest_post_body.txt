@@ -1,0 +1,25 @@
+https://10.200.200.25/api/aaaLogin.json
+
+{
+   "aaaUser":{
+      "attributes":{
+         "name": "cisco",
+         "pwd": "cisco"
+         }
+     }
+}
+
+https://10.200.200.25/api/node/class/l1PhysIf.xml?
+
+https://10.200.200.25/api/node/class/l1PhysIf.json
+
+https://10.200.200.25/api/mo/sys/intf.json
+
+{
+              "l1PhysIf": {
+                "attributes": {
+                  "descr": "abcdefg",
+                  "id": "eth1/33"
+                }
+              }
+            }
